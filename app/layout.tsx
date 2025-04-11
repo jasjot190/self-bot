@@ -31,7 +31,7 @@ export default function RootLayout({
       muted
       id="background-video"
       playsInline
-      className="absolute top-0 left-0 w-full h-full object-cover -z-10"
+      className="absolute top-0 left-0 w-full h-svh object-cover -z-10"
     >
       <source src="/videos/Background.mp4" type="video/mp4" />
     </video>
